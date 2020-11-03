@@ -1,5 +1,4 @@
 # Maximl-labs-python-Test
-
 Here,
 we have to take an input string S containing lowercase English alphabets and have to return the length of smallest substring with maximum number of distinct characters.
 
